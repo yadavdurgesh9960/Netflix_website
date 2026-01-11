@@ -9,7 +9,7 @@ body{
 
 }
 .main{
-    background-image:url("assets/images/netflix.bg.j.jpg");
+    background-image:url("assets/images/netflix.jpg");
     background-position:center center;
     background-repeat: no-repeat;
     background-size: max(1000px,100vw);
@@ -230,4 +230,5 @@ footer .questions{
     flex-direction: column;
     gap: 5px;
     align-items: center;
+
 }
